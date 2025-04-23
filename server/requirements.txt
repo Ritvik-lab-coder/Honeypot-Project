@@ -7,3 +7,4 @@ paramiko
 plotly
 python-dotenv
 Requests
+flask-cors
